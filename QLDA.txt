@@ -1,2 +1,8 @@
 Nhóm 6
-\1231231231
+  <<<<<<< duc1
+  abhsbchabcjsnckasncksa
+  sadsadsads 
+  ậcncjasncksmcaskm
+  =======
+  \1231231231
+  >>>>>>> master
