@@ -1,4 +1,8 @@
 Nhóm 6
-abhsbchabcjsnckasncksa
-sadsadsads 
-ậcncjasncksmcaskm
+  <<<<<<< duc1
+  abhsbchabcjsnckasncksa
+  sadsadsads 
+  ậcncjasncksmcaskm
+  =======
+  \1231231231
+  >>>>>>> master
