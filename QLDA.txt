@@ -1,15 +1,5 @@
 Nhóm 6
- <<<<<<< duc111
-  abhsbchabcjsnckasncksa
-  sadsadsads
-  12312312
-  12312312Sssd
- =======
-  <<<<<<< duc1
-  abhsbchabcjsnckasncksa
-  sadsadsads 
-  ậcncjasncksmcaskm
-  =======
-  \1231231231
-  >>>>>>> master
->>>>>>> master
+Ao thu lạnh lẽo nước trong veo
+Một chiếc thuyền câu bé tẻo teo
+Sóng biếc theo làn hơi gợn tí
+Lá vàng trước gió khẽ đưa vèo.
